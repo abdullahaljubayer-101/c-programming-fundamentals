@@ -1,4 +1,4 @@
-# 💻 Computer Programming (1st Part)
+# 💻 C Programming Fundamentals
 
 ![C](https://img.shields.io/badge/Language-C-00599C?style=flat-square&logo=c&logoColor=white)
 ![Programs](https://img.shields.io/badge/Programs-90%2B-blue?style=flat-square)
@@ -13,7 +13,7 @@ Nothing fancy here, just honest practice code, kept as a record of how I learned
 ## 📂 What's inside
 
 ```text
-computer_programming_1st_part/
+c-programming-fundamentals/
 ├── Unit/        # Examples and exercises, grouped by unit (e.g. 6_5 = unit 6, no. 5)
 ├── Works/       # Extra problems I solved on my own (Work_01 ... Work_31)
 └── Practices/   # Small practice programs
